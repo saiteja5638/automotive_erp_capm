@@ -1,0 +1,4 @@
+ID,brandCode,name,description,country,isActive,createdAt,createdBy,modifiedAt,modifiedBy
+d24bd295-e6ef-5bf8-8881-6e2fab7f7fbd,HYU,Hyundai,Hyundai Motor Company,KR,true,2026-06-14T14:41:00Z,admin,2026-06-14T14:41:00Z,admin
+d97b8536-305d-5a59-93f3-2032dea8c8b0,KIA,Kia,Kia Corporation,KR,true,2026-01-12T16:06:00Z,admin,2026-01-12T16:06:00Z,admin
+c92d4b93-a8a6-580b-843d-9a1cd83876c2,TAT,Tata Motors,Tata Motors Limited,IN,true,2026-06-28T08:58:00Z,admin,2026-06-28T08:58:00Z,admin

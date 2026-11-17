@@ -1,0 +1,18 @@
+ID,accessoryCode,name,description,basePrice,currency,isOptional,isActive,category_ID,createdAt,createdBy,modifiedAt,modifiedBy
+5617f74c-625e-55d7-9202-2e21a3475b2e,MATS3D,3D Floor Mats,Custom-fit 3D floor mats,4500,INR,true,true,49ee24bd-cb16-59cb-bb4b-468510a6169c,2026-01-22T10:24:00Z,admin,2026-01-22T10:24:00Z,admin
+5d8c7df7-c48c-54bd-8bba-a342029a860d,SEATCOV,Seat Covers,Premium PU seat covers,9500,INR,true,true,49ee24bd-cb16-59cb-bb4b-468510a6169c,2026-05-20T10:23:00Z,admin,2026-05-20T10:23:00Z,admin
+455999fa-7f30-5351-adc8-3bb5b33ba0ba,CUSHION,Neck & Lumbar Cushion Set,Ergonomic cushion set,1800,INR,true,true,49ee24bd-cb16-59cb-bb4b-468510a6169c,2026-03-17T13:56:00Z,admin,2026-03-17T13:56:00Z,admin
+432c53a1-f11c-501d-acc8-5edd97b690f3,ARMREST,Center Armrest,Padded center armrest,3500,INR,true,true,49ee24bd-cb16-59cb-bb4b-468510a6169c,2026-07-19T15:20:00Z,admin,2026-07-19T15:20:00Z,admin
+5b5f0c53-3cd0-5957-ba41-3f5825c43e67,MUDFLAP,Mud Flaps,Set of 4 mud flaps,2200,INR,true,true,85158d89-296b-5af1-b99d-fd58c0914741,2026-09-16T10:25:00Z,admin,2026-09-16T10:25:00Z,admin
+b71dfca9-d276-54c9-9815-e4d79472d4b8,DOORVISOR,Door Visors,Chrome-line door visors,3200,INR,true,true,85158d89-296b-5af1-b99d-fd58c0914741,2026-09-10T08:54:00Z,admin,2026-09-10T08:54:00Z,admin
+869ec7ba-a0ab-559b-bd05-ca6d1e6fac2c,ROOFRAIL,Roof Rails,Aluminium roof rails,7500,INR,true,true,85158d89-296b-5af1-b99d-fd58c0914741,2026-03-13T11:29:00Z,admin,2026-03-13T11:29:00Z,admin
+5a69dd0e-115e-571d-834c-64b2ccf0ec9c,BODYCOVER,Body Cover,Weather-proof car cover,2800,INR,true,true,85158d89-296b-5af1-b99d-fd58c0914741,2026-05-21T18:06:00Z,admin,2026-05-21T18:06:00Z,admin
+b0501592-d26a-51b4-9961-fd2458100e48,CHROMEKIT,Chrome Garnish Kit,Chrome accent kit,6500,INR,true,true,85158d89-296b-5af1-b99d-fd58c0914741,2026-09-26T18:24:00Z,admin,2026-09-26T18:24:00Z,admin
+dbe8b67c-0eef-50cf-af0f-99a5a96f7629,DASHCAM,Dash Camera,Full-HD front/rear dash camera,8500,INR,true,true,fc9b4df8-eedc-5660-a2f9-3d5de14e5bae,2026-03-18T18:26:00Z,admin,2026-03-18T18:26:00Z,admin
+f12c4780-b394-5f43-b845-68f575a317c1,WIRELESSCH,Wireless Phone Charger,Qi wireless charger,4000,INR,true,true,fc9b4df8-eedc-5660-a2f9-3d5de14e5bae,2026-02-26T17:21:00Z,admin,2026-02-26T17:21:00Z,admin
+3188169b-dea7-5b2a-ad38-dcac04d1ce29,TPMS,Tyre Pressure Monitor,Aftermarket TPMS,5500,INR,true,true,fc9b4df8-eedc-5660-a2f9-3d5de14e5bae,2026-08-18T12:23:00Z,admin,2026-08-18T12:23:00Z,admin
+f81698f6-a227-53ef-8da3-83dc4733d0f8,PARKSENS,Rear Parking Sensors,4-sensor kit,4800,INR,true,true,2e184a32-b5a7-5b67-8d3f-2c06af3d1663,2026-05-22T16:51:00Z,admin,2026-05-22T16:51:00Z,admin
+79d25a95-eebb-52c2-9b95-ea51dfe0303f,GPSTRACK,GPS Tracker,Anti-theft GPS tracker,6000,INR,true,true,2e184a32-b5a7-5b67-8d3f-2c06af3d1663,2026-01-25T15:23:00Z,admin,2026-01-25T15:23:00Z,admin
+17573f24-6bcd-585c-8aeb-bc3935fcc37c,FIREEXT,Fire Extinguisher & First-Aid Kit,Compact safety kit,1500,INR,true,true,2e184a32-b5a7-5b67-8d3f-2c06af3d1663,2026-01-11T18:07:00Z,admin,2026-01-11T18:07:00Z,admin
+0cb231ff-26fe-576e-8eb6-e4d6d8ff7da1,CHARGER74,Home Wall Charger (7.4 kW),AC wall box with installation,45000,INR,false,true,2873eafe-1857-5caf-bdee-6887546a1574,2026-09-22T15:19:00Z,admin,2026-09-22T15:19:00Z,admin
+b317aa7b-ca5b-5db1-bc0b-6a8bb7bb7f95,CHGCABLE,Portable EV Charging Cable,Type-2 portable charger,22000,INR,true,true,2873eafe-1857-5caf-bdee-6887546a1574,2026-09-14T17:47:00Z,admin,2026-09-14T17:47:00Z,admin

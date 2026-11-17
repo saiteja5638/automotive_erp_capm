@@ -1,0 +1,6 @@
+ID,categoryCode,name,description,isActive,createdAt,createdBy,modifiedAt,modifiedBy
+49ee24bd-cb16-59cb-bb4b-468510a6169c,INT,Interior,Interior styling and comfort,true,2026-09-16T09:22:00Z,admin,2026-09-16T09:22:00Z,admin
+85158d89-296b-5af1-b99d-fd58c0914741,EXT,Exterior,Exterior styling and protection,true,2026-07-24T17:02:00Z,admin,2026-07-24T17:02:00Z,admin
+fc9b4df8-eedc-5660-a2f9-3d5de14e5bae,ELE,Electronics,Electronics and gadgets,true,2026-05-20T09:17:00Z,admin,2026-05-20T09:17:00Z,admin
+2e184a32-b5a7-5b67-8d3f-2c06af3d1663,SAF,Safety,Safety and security,true,2026-03-24T14:42:00Z,admin,2026-03-24T14:42:00Z,admin
+2873eafe-1857-5caf-bdee-6887546a1574,EVC,EV Charging,Electric vehicle charging equipment,true,2026-09-17T09:13:00Z,admin,2026-09-17T09:13:00Z,admin

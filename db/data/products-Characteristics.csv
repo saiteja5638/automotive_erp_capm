@@ -1,0 +1,9 @@
+ID,characteristicCode,name,description,dataType,unit,isActive,createdAt,createdBy,modifiedAt,modifiedBy
+b8ba4efc-c476-55d4-a210-64f2c23c88ab,ENGINE,Engine,Engine / powertrain,STRING,L,true,2026-09-16T08:05:00Z,admin,2026-09-16T08:05:00Z,admin
+78e33703-145d-5a4e-a666-a1fa297f7f68,TRANSMISSION,Transmission,Gearbox type,STRING,,true,2026-07-23T09:15:00Z,admin,2026-07-23T09:15:00Z,admin
+05a6633a-db52-5ddc-9378-6d88a2b04a12,COLOR,Exterior Color,Body paint colour,STRING,,true,2026-02-27T14:03:00Z,admin,2026-02-27T14:03:00Z,admin
+aa045ad1-031a-529f-a981-240b7baac379,UPHOLSTERY,Upholstery,Seat material and trim,STRING,,true,2026-02-17T18:40:00Z,admin,2026-02-17T18:40:00Z,admin
+aa95436a-e842-5448-9398-754ce90547f7,WHEELS,Wheel Size,Alloy / steel wheel diameter,NUMBER,inch,true,2026-01-28T17:25:00Z,admin,2026-01-28T17:25:00Z,admin
+06800eaf-61a3-5319-9e9c-8a577d0ea792,SUNROOF,Sunroof,Sunroof availability,BOOLEAN,,true,2026-01-17T08:35:00Z,admin,2026-01-17T08:35:00Z,admin
+f222435e-53b4-5fd6-9ca5-55a3d5577ef9,AUDIO,Music System,Infotainment and audio,STRING,,true,2026-03-19T14:09:00Z,admin,2026-03-19T14:09:00Z,admin
+89b5707d-0a67-5a57-8e39-c5f64e5abcfc,PACKS,Feature Packs,Optional add-on feature packs,STRING,,true,2026-09-13T17:19:00Z,admin,2026-09-13T17:19:00Z,admin

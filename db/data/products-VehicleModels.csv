@@ -1,0 +1,14 @@
+ID,modelCode,name,description,launchDate,isActive,brand_ID,createdAt,createdBy,modifiedAt,modifiedBy
+a15693c9-7ed5-57ad-abe7-a3589b129614,I20,i20,Premium hatchback,2020-11-02,true,d24bd295-e6ef-5bf8-8881-6e2fab7f7fbd,2026-06-21T15:07:00Z,admin,2026-06-21T15:07:00Z,admin
+782a0a5a-744e-5931-b1ed-970f98a96cf3,NIOS,Grand i10 Nios,Compact hatchback,2019-08-20,true,d24bd295-e6ef-5bf8-8881-6e2fab7f7fbd,2026-02-26T16:05:00Z,admin,2026-02-26T16:05:00Z,admin
+3694994e-0cfb-54e9-9257-70fb17e6a15f,VERNA,Verna,Premium sedan,2023-03-21,true,d24bd295-e6ef-5bf8-8881-6e2fab7f7fbd,2026-08-17T12:48:00Z,admin,2026-08-17T12:48:00Z,admin
+fa3cd0e6-3bb0-5791-a2de-13317b7cfaea,AURA,Aura,Compact sedan,2020-01-21,true,d24bd295-e6ef-5bf8-8881-6e2fab7f7fbd,2026-06-24T16:33:00Z,admin,2026-06-24T16:33:00Z,admin
+5e12632d-c196-5e49-9b3c-20651c3281d3,CRETA,Creta,Mid-size SUV,2015-07-21,true,d24bd295-e6ef-5bf8-8881-6e2fab7f7fbd,2026-04-26T11:17:00Z,admin,2026-04-26T11:17:00Z,admin
+b891bcbe-fabc-584a-aa91-cb149fa51d62,VENUE,Venue,Compact SUV,2019-05-21,true,d24bd295-e6ef-5bf8-8881-6e2fab7f7fbd,2026-04-22T14:43:00Z,admin,2026-04-22T14:43:00Z,admin
+d42eafd3-29a9-5b6e-b1a5-60bdc6bf12df,ALCAZAR,Alcazar,3-row SUV,2021-06-18,true,d24bd295-e6ef-5bf8-8881-6e2fab7f7fbd,2026-01-26T16:08:00Z,admin,2026-01-26T16:08:00Z,admin
+c84a3982-2f53-50ec-a56a-7052ca303773,TUCSON,Tucson,Premium SUV,2022-09-29,true,d24bd295-e6ef-5bf8-8881-6e2fab7f7fbd,2026-01-23T08:50:00Z,admin,2026-01-23T08:50:00Z,admin
+3c6d964b-fab8-515a-a789-c55c5f63090c,IONIQ5,Ioniq 5,Electric crossover,2023-01-09,true,d24bd295-e6ef-5bf8-8881-6e2fab7f7fbd,2026-03-18T10:01:00Z,admin,2026-03-18T10:01:00Z,admin
+d286f982-0540-540a-8d03-a3ee56f59f09,SELTOS,Seltos,Mid-size SUV,2019-08-22,true,d97b8536-305d-5a59-93f3-2032dea8c8b0,2026-01-10T14:53:00Z,admin,2026-01-10T14:53:00Z,admin
+007c4b93-3756-5430-85ad-2b1b5ca58a90,SONET,Sonet,Compact SUV,2020-09-18,true,d97b8536-305d-5a59-93f3-2032dea8c8b0,2026-06-20T15:32:00Z,admin,2026-06-20T15:32:00Z,admin
+7959d7cf-b7d2-5b44-b298-5b957cd4e56c,NEXON,Nexon,Compact SUV,2017-09-21,true,c92d4b93-a8a6-580b-843d-9a1cd83876c2,2026-09-20T14:55:00Z,admin,2026-09-20T14:55:00Z,admin
+76d72ac4-84f4-5f85-9a5e-fb4e33176b4a,HARRIER,Harrier,Premium SUV,2019-01-23,true,c92d4b93-a8a6-580b-843d-9a1cd83876c2,2026-05-16T16:53:00Z,admin,2026-05-16T16:53:00Z,admin
