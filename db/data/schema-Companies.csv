@@ -1,0 +1,3 @@
+ID,companyCode,name,legalName,currency,country,isActive,createdAt,createdBy,modifiedAt,modifiedBy
+938ea855-83ba-56ec-9c46-37535c91f57a,HMI001,Hyundai Motor India South & West,Hyundai Motor India Limited - South & West Region,INR,IN,true,2026-02-10T12:15:00Z,admin,2026-02-10T12:15:00Z,admin
+429c6d3b-a6ae-50d6-8fe2-f3c889c56d89,HMI002,Hyundai Motor India North & East,Hyundai Motor India Limited - North & East Region,INR,IN,true,2026-04-14T09:43:00Z,admin,2026-04-14T09:43:00Z,admin
