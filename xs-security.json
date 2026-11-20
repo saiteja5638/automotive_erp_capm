@@ -10,6 +10,7 @@
       "name": "$XSAPPNAME.CREATEPROD",
       "description": "Create products"
     },
+    
     {
       "name": "$XSAPPNAME.UPDATEPROD",
       "description": "Update products"
