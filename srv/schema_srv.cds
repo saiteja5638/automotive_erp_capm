@@ -2,6 +2,7 @@ using schema from '../db/schema';
 
 service OrganizationService {
 
+    @odata.draft.enabled
     entity Companies     as projection on schema.Companies;
 
     entity States        as projection on schema.States;
