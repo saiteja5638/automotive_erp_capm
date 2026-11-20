@@ -2,7 +2,21 @@ using products from '../db/products';
 
 service ProductService {
 
+    @odata.draft.enabled
+    
     entity Brands                 as projection on products.Brands;
+
+
+    @readonly
+    @cds.search: {
+        brandCode,
+        name
+    }
+    entity BrandValueHelps        as
+        projection on Brands {
+            key brandCode,
+                name
+        };
 
     entity VehicleModels          as projection on products.VehicleModels;
 
