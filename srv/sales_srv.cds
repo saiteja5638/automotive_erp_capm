@@ -1,19 +1,22 @@
-using sales from '../db/sales';
+using salhist from '../db/sales';
 
-service Sales {
+service CatalogSalesService {
 
-    entity Quotations        as projection on sales.Quotations;
+    entity Quotations        as projection on salhist.Quotations;
 
-    entity QuotationItems    as projection on sales.QuotationItems;
+    entity QuotationItems    as projection on salhist.QuotationItems;
 
-    entity SalesOrders       as projection on sales.SalesOrders;
+    entity SalesOrders       as projection on salhist.SalesOrders;
 
-    entity SalesOrderItems   as projection on sales.SalesOrderItems;
+    entity SalesOrderItems   as projection on salhist.SalesOrderItems;
 
-    entity Customers         as projection on sales.Customers;
+    entity Customers         as projection on salhist.Customers {
+        *,
+        firstName || '' || lastName as fullName : String
+    };
 
-    entity CustomerAddresses as projection on sales.CustomerAddresses;
+    entity CustomerAddresses as projection on salhist.CustomerAddresses;
 
-    entity CustomerContacts  as projection on sales.CustomerContacts;
+    entity CustomerContacts  as projection on salhist.CustomerContacts;
 
 }

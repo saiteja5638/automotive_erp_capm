@@ -4,7 +4,7 @@ using products from './products';
 using schema from './schema';
 
 
-context sales {
+context salhist {
 
 
     // ============================================================
